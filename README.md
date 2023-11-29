@@ -1,8 +1,7 @@
 # Projet_7
+Développeur front-end au sein de l’agence Webgencia. 
 
-Vous êtes développeur front-end au sein de l’agence Webgencia. 
-
-Cette semaine, on vous confie une mission un peu différente de d’habitude. Il ne s’agit pas de développer un site mais de mener, préparer et planifier le projet de développement d’un site.
+Préparer et planifier le projet de développement d’un site.
 
 Maquette:
 https://www.figma.com/file/Q6NEUPqwz1U3HFaCaVoF7N/Desktop?node-id=0%3A6
